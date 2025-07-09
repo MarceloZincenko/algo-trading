@@ -1,0 +1,9 @@
+[workspace]
+members = [
+    "commons",
+    "admin-service",
+    "market-data-service", 
+    "execution-service", 
+    "report-service", 
+    "strategy-service"
+]
